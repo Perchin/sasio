@@ -1,0 +1,22 @@
+.mainMenu {
+    position: fixed;
+    background-color: #fbfbff;
+    left: 0;
+    width: 230px;
+    height: 10000px;
+    border-right: 1px solid #e4ecff;
+    border-top: 1px solid #e4ecff;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #353535;
+    font-size: 19px;
+    font-weight: 500;
+}
